@@ -21,6 +21,7 @@ Créateur : Christophe HERMANN (@chrishrmnn)
 	header[role=banner] {
 		background:#fff;
 		border-bottom:4px solid #33a4c9;
+		background-image:url('h2.png') ;
 		padding: 19px 0;
 		overflow: hidden;
 	}
