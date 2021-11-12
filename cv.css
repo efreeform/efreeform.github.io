@@ -85,6 +85,7 @@
 		border-radius: 75px;
 		height: 150px;
 		position: relative;
+		float: center;
 		width: 150px;
 	}
 	
