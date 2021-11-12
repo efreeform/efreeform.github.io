@@ -72,10 +72,19 @@
 		overflow: hidden;
 	}
 	
+       header figure {
+		border: 3px solid #eee;
+		border-radius: 78px;
+		float: center;
+		height: 156px;
+		width: 166px;
+		
+	}
+
+
 	header figure img {
 		border-radius: 75px;
 		height: 150px;
-		
 		float: center;
 		width: 150px;
 	}
