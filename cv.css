@@ -72,22 +72,7 @@
 		overflow: hidden;
 	}
 	
-	header figure {
-		border: 3px solid #eee;
-		border-radius: 78px;
-		float: right;
-		height: 156px;
-		width: 166px;
-		
-	}
 	
-	header figure img {
-		border-radius: 75px;
-		height: 150px;
-		position: relative;
-		float: center;
-		width: 150px;
-	}
 	
 	header hgroup {
 		float: center;
