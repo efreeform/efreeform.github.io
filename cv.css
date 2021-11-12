@@ -68,7 +68,6 @@
 		border-bottom:4px solid #33a4c9;
 		background-image:url('h2.png') ;
 		background-repeat: no-repeat;
-		padding: 19px 0;
 		overflow: hidden;
 	}
 	
@@ -89,7 +88,7 @@
 	}
 	
 	header hgroup {
-		float: center;
+		float: right;
 		padding: 22px 0;
 		
 	}
