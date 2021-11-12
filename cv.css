@@ -64,11 +64,11 @@
 /* Header
 **********/
 	header[role=banner] {
-		background:#fff;
+		background:#000000;
 		border-bottom:4px solid #33a4c9;
 		background-image:url('h2.png') ;
 		background-repeat: no-repeat;
-		background-position: center;
+		
 		padding: 2px 0;
 		overflow: hidden;
 	}
