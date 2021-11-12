@@ -64,10 +64,10 @@
 /* Header
 **********/
 	header[role=banner] {
-		background:#fff;
+		background:#000;
 		border-bottom:4px solid #33a4c9;
 		background-image:url('h2.png') ;
-		background-repeat: repeat-y;
+		background-repeat: no-repeat;
 		padding: 2px 0;
 		overflow: hidden;
 	}
@@ -84,7 +84,7 @@
 	header figure img {
 		border-radius: 75px;
 		height: 150px;
-		position: center;
+		position: relative;
 		width: 150px;
 	}
 	
