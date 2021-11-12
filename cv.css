@@ -67,6 +67,7 @@
 		background:#fff;
 		border-bottom:4px solid #33a4c9;
 		background-image:url('h2.png') ;
+		background-repeat: round;
 		padding: 2px 0;
 		overflow: hidden;
 	}
