@@ -84,7 +84,7 @@
 	header figure img {
 		border-radius: 75px;
 		height: 150px;
-		position: relative;
+		position: center;
 		width: 150px;
 	}
 	
